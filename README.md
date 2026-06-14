@@ -1,2 +1,2 @@
 # personal-portfolio
-makin portfolio by using HTML, CSS, JS
+portfolio by using HTML, CSS, JS
